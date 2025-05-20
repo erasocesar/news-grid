@@ -37,7 +37,7 @@ export async function getNewsItems(): Promise<NewsItem[]> {
       description:
         "Participación en el encuentro de ArcGIS para Petróleo realizado por Esri Colombia, en donde se presentó la metodología Integrada de SIG e ingeniería para diseño de Gasoductos.",
       imageUrl: "https://nuevaweb.isagis.com/images/thumbnail_encuentro_esri.PNG",
-      url: "https://www.youtube.com/watch?v=8HKihts2Qno&t=5410s",
+      url: "https://youtu.be/8HKihts2Qno?si=M5G_qkt-S9bLM2st&t=4946",
     },
     {
       id: "5",
