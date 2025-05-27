@@ -8,8 +8,8 @@ export async function getNewsItems(): Promise<NewsItem[]> {
     {
       id: "1",
       category: "Servicio IA Destacado",
-      title: "Video: Podcast Presentación General de la Empresa",
-      description: "🎥 Ejemplo de Servicio de Podcast usando IA",
+      title: "Video: Presentación General de la Empresa",
+      description: "🎥 Ejemplo de Servicio de Video usando Avatares",
       imageUrl: "https://nuevaweb.isagis.com/images/Portada_podcast.png",
       url: "https://youtu.be/H9E7a7Mj4NE",
     },
@@ -20,7 +20,7 @@ export async function getNewsItems(): Promise<NewsItem[]> {
       description:
         "⚡ Ejemplo de un desarrollo ágil de aplicaciones SIG, una escena 3D para presentar la experiencia de la empresa.",
       imageUrl: "https://nuevaweb.isagis.com/images/Miniatura%20escena.JPG",
-      url: "https://servintsiging.maps.arcgis.com/home/webscene/viewer.html?webscene=8d59f3fbcb054cf19e18018968036466&viewpoint=cam:-65.21605227,8.15678964,15307146.704;342.002,0.147",
+      url: "https://www.arcgis.com/home/webscene/viewer.html?webscene=d565c7e226ff4e64877897b814993ac7&viewpoint=cam:-63.52898242,9.87332955,15307146.727;342.002,0.147",
     },
     {
       id: "2", // Ahora este es el tercer elemento (antes era el segundo)
